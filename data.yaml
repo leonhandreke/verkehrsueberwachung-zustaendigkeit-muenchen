@@ -1,9 +1,15 @@
 incidents:
         - { address: Kapuzinerstr. 31, agency: kvr }
         - { address: Paul-Heyse-Str. 21, agency: pi14 }
+        - { address: Marlene-Dietrich-Str. 18, agency: pi42 }
+        - { address: Arnulfstraße 51, agency: pi42 }
+        - { address: Marsstraße 48, agency: kvr }
+        - { address: Erika-Mann-Str. 17, agency: pi42 }
+        - { address: Sedlmayrstraße. 2, agency: pi42 }
 
 agencies: {
         kvr: { name: KVR, color: "#808080" },
-        pi14: { name: Polizeiinspektion 14, color: "#00387b" }
+        pi14: { name: Polizeiinspektion 14, color: "#00387b" },
+        pi42: { name: Polizeiinspektion 42, color: "#00387b" }
 }
 

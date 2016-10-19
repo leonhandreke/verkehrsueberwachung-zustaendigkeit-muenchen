@@ -31,8 +31,6 @@ for incident in data["incidents"]:
         "properties": geojson_properties
         })
 
-print(geojson_features)
-
 with open("processed.geojson", "w") as outfile:
     json.dump({
         "type": "FeatureCollection",
