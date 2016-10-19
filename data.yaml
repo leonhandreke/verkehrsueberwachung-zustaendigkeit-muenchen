@@ -1,0 +1,9 @@
+incidents:
+        - { address: Kapuzinerstr. 31, agency: kvr }
+        - { address: Paul-Heyse-Str. 21, agency: pi14 }
+
+agencies: {
+        kvr: { name: KVR, color: "#808080" },
+        pi14: { name: Polizeiinspektion 14, color: "#00387b" }
+}
+
