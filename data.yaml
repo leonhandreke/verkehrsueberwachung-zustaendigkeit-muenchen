@@ -6,6 +6,8 @@ incidents:
         - { address: Marsstraße 48, agency: kvr }
         - { address: Erika-Mann-Str. 17, agency: pi42 }
         - { address: Sedlmayrstraße. 2, agency: pi42 }
+        - { address: Grete-Mosheim-Straße, agency: pi42 }
+        - { address: Erika-Mann-Str. 21, agency: pi42 }
 
 agencies: {
         kvr: { name: KVR, color: "#808080" },
