@@ -8,9 +8,14 @@ incidents:
         - { address: Sedlmayrstraße. 2, agency: pi42 }
         - { address: Grete-Mosheim-Straße, agency: pi42 }
         - { address: Erika-Mann-Str. 21, agency: pi42 }
+        - { address: Seidlstraße 3, agency: pi14 }
+        - { address: Seidlstraße 8, agency: pi14 }
+        - { address: Seidlstraße 8, agency: pi14 }
+        - { address: Seidlstraße 30, agency: pi12 }
 
 agencies: {
         kvr: { name: KVR, color: "#808080" },
+        pi12: { name: Polizeiinspektion 12, color: "#00387b" },
         pi14: { name: Polizeiinspektion 14, color: "#00387b" },
         pi42: { name: Polizeiinspektion 42, color: "#00387b" }
 }
